@@ -1,5 +1,22 @@
-READ
+Project Name:  MSDS6306 Live Session Homework 04:  Housing Data Set:  Queens
 
-Changes
+Purpose:
+The purpose of the project is to examine the Queens housing sales data.
+The following activities and associated files were completed:  
 
-Change II
+a- Download the Queens Data File.
+    File:  rollingsales_queens.csv
+    
+b- Clean the data
+    File:  queens.R
+
+c- Analyze the data by creating graphs to compare the square footage and sales price for the Queens neighboorhoold.
+    Files:
+    Rplot(histogram).pdf
+    Rplot(log sqft vs log price --- 1,2,3 bedroom).pdf
+    Rplot(log spft vs logprice--no outliers).pdf
+    Rplot(log sqft vs log price).pdf
+    Rplot(sqft vs price).pdf
+
+d- Explain any meaningful patterns of the data.  
+
