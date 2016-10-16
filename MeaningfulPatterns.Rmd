@@ -1,0 +1,10 @@
+---
+title: "Meaningful Patterns"
+author: "James Logan Gage"
+date: "October 16, 2016"
+output: 
+  html_document:
+    keep_md: true
+---
+
+# Meaningful patterns discovered in the Queens dataset.
