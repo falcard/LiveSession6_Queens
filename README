@@ -7,7 +7,7 @@ The following activities and associated files were completed:
 a- Download the Queens Data File.
     File:  rollingsales_queens.csv
     
-b- Clean the data
+b- Clean the data.
     File:  queens.R
 
 c- Analyze the data by creating graphs to compare the square footage and sales price for the Queens neighboorhoold.
@@ -19,4 +19,7 @@ c- Analyze the data by creating graphs to compare the square footage and sales p
     Rplot(sqft vs price).pdf
 
 d- Explain any meaningful patterns of the data.  
-
+    Files:
+    .DS_Store
+    Report.html
+    Report.ipynb
